@@ -50,8 +50,15 @@ arr1 = np.array([1, 2, 3])
 ```
 arr2 = np.array([[1, 2], [3, 4]])
 ```
+## Examples
 
+- **Matrix Operations:** Transpose, multiplication, determinant  
+- **Statistics:** Mean, median, standard deviation  
+- **Random Numbers:** Generate random arrays, permutations  
+- **Indexing and Slicing:** Access elements, rows, and columns
+   
 Perform operations:
+
 # Addition
 ```
 arr_sum = arr1 + arr1
