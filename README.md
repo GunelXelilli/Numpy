@@ -66,25 +66,13 @@ result = arr2 @ arr2.T
 mean_val = np.mean(arr2)
 ```
 
-Examples:
-
-Matrix Operations: Transpose, multiplication, determinant
-
-Statistics: Mean, median, standard deviation
-
-Random Numbers: Generate random arrays, permutations
-
-Indexing and Slicing: Access elements, rows, and columns
-Contributing
+## Contributing
 
 Contributions are welcome! Feel free to:
 
-Open an issue
+- Open an issue  
+- Submit a pull request with new examples or improvements  
 
-Submit a pull request with new examples or improvements
-
-License
+## License
 
 This project is licensed under the MIT License.
-
-
