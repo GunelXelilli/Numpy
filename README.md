@@ -32,7 +32,9 @@ Or using conda:
 ```
 conda install numpy
 ```
-Usage
+## Usage
+
+To use the scripts in this repository:
 
 Import NumPy in your Python scripts:
 ```
