@@ -41,22 +41,32 @@ import numpy as np
 Create arrays:
 
 # 1D array
+```
 arr1 = np.array([1, 2, 3])
-
+```
 # 2D array
+```
 arr2 = np.array([[1, 2], [3, 4]])
+```
 
 Perform operations:
 # Addition
+```
 arr_sum = arr1 + arr1
+```
 
 # Matrix multiplication
+```
 result = arr2 @ arr2.T
+```
+
 
 # Mean
+```
 mean_val = np.mean(arr2)
+```
 
-Examples
+Examples:
 
 Matrix Operations: Transpose, multiplication, determinant
 
@@ -65,5 +75,16 @@ Statistics: Mean, median, standard deviation
 Random Numbers: Generate random arrays, permutations
 
 Indexing and Slicing: Access elements, rows, and columns
+Contributing
+
+Contributions are welcome! Feel free to:
+
+Open an issue
+
+Submit a pull request with new examples or improvements
+
+License
+
+This project is licensed under the MIT License.
 
 
