@@ -9,7 +9,7 @@ This repository contains examples and practice scripts for learning **NumPy**, a
 - [Usage](#usage)  
 - [Examples](#examples)  
 - [Contributing](#contributing)  
-- [License](#license)  
+- [License]()  
 
 ## About NumPy
 
