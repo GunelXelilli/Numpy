@@ -9,7 +9,7 @@ This repository contains examples and practice scripts for learning **NumPy**, a
 - [Usage](https://github.com/GunelXelilli/Numpy/blob/main/README.md#usage)  
 - [Examples](https://github.com/GunelXelilli/Numpy/blob/main/README.md#examples)  
 - [Contributing](https://github.com/GunelXelilli/Numpy/blob/main/README.md#contributing)  
-- [License]()  
+- [License](https://github.com/GunelXelilli/Numpy/blob/main/README.md#license)  
 
 ## About NumPy
 
